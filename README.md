@@ -1,4 +1,4 @@
-# Сcross-platform programming
+# Сross-platform programming
 ____
 ## Lab #1
 
